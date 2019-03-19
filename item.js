@@ -48,4 +48,7 @@
         return event;
     }); // end kintone.events.on ['app.record.create.show','app.record.edit.show', 'app.record.index.edit.show']
 
+
+// aaaaa
+
 })();
